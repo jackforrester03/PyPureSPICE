@@ -1,0 +1,7 @@
+* /Users/jackforrester/Documents/AppDev/PyPureSPICE/Example Networks/Potential Divider.asc
+V1 N001 0 1
+R1 N002 N001 100
+R2 0 N002 100
+.tran 10m
+.backanno
+.end
